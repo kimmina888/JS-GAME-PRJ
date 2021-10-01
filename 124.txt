@@ -1,0 +1,6 @@
+x쳐서 나오는거 2번쨰꺼(단축키 알림)
+
+RUn deberg한후>debuging action>>step over에서 실시간으로 F8을 통해서 어케 진행되는지 알 수 있다.
+step into는 함수내부진입
+
+https://codeshare.io/admZkz
